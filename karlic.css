@@ -1,0 +1,12 @@
+.panel{
+    color: red;
+    background-color: aqua;
+    padding-top: 220px;
+    font-size: 40px;
+    text-align: left;
+}
+img{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
